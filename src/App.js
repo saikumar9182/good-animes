@@ -13,6 +13,10 @@ function App() {
       <p>10/10</p>
       </div>
       <div className="border">
+      <h3>Jujutsu Kaisen</h3>
+      <p>9/10</p>
+      </div>
+      <div className="border">
       <h3>One Piece</h3>
       <p>9/10</p>
       </div>
@@ -28,7 +32,12 @@ function App() {
       <h3>Psycho pass</h3>
       <p>8/10</p>
       </div>
+      <div className="border">
+      <h3>Paranoia agent</h3>
+      <p>8/10</p>
+      </div>
     </div>
+    
   );
 
   const Sports=(
@@ -40,6 +49,10 @@ function App() {
       <div className="border">
       <h3>Inazuma Eleven</h3>
       <p>9/10</p>
+      </div>
+      <div className="border">
+      <h3>Ping Pong</h3>
+      <p>8/10</p>
       </div>
     </div>
   );
